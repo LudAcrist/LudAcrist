@@ -26,4 +26,6 @@ Me llamo Ludwicka Aguirre y estudio en la Facultad de Informática de la UAQ
 ```javascript
 console.log('Hello Word')
 ```
-
+```javascript
+console.log('Goodbye Word')
+```
